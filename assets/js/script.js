@@ -6,8 +6,8 @@
     /*------------------------------------------
         = ALL ESSENTIAL FUNCTIONS
     -------------------------------------------*/
-
-
+    
+    
     // Toggle mobile navigation
     function toggleMobileNavigation() {
         var navbar = $(".navigation-holder");
